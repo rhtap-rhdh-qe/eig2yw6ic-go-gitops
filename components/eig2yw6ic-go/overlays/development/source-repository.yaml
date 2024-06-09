@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: eig2yw6ic-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/eig2yw6ic-go
